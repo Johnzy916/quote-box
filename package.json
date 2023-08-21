@@ -1,7 +1,7 @@
 {
-    "name": "react-parcel",
+    "name": "simple-quote-box",
     "version": "1.0.0",
-    "main": "app.js",
+    "homepage": "https://johnzy916.github.io/quote-box",
     "scripts": {
         "start": "parcel index.html",
         "build": "parcel build index.html",
